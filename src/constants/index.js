@@ -10,28 +10,28 @@ export const myProjects = [
       "Chatbot Interfacing.",
       "Code review assurance" ],
     href: "https://navin.live/",
-    logo: "./assets/projects/navin_gen/navin-logo.png",
-    image: "./assets/projects/navin_gen/hero.png",
+    logo: "assets/projects/navin_gen/navin-logo.png",
+    image: "assets/projects/navin_gen/hero.png",
     tags: [
       {
         id: 1,
         name: "Typescript",
-        path: "./assets/logos/typescript-logo.png",
+        path: "assets/logos/typescript-logo.png",
       },
        {
         id: 2,
         name: "Next.js",
-        path: "./assets/logos/nextjs.svg",
+        path: "assets/logos/nextjs.svg",
       },
       {
         id: 3,
         name: "TailwindCSS",
-        path: "./assets/logos/tailwindcss.svg",
+        path: "assets/logos/tailwindcss.svg",
       },
       {
         id: 4,
         name: "Supabase",
-        path: "./assets/logos/supabase.svg",
+        path: "assets/logos/supabase.svg",
         style: "size-20 -translate-y-4",
       },
       
@@ -50,40 +50,40 @@ export const myProjects = [
     ],
     href: "https://ragdl.ai/",
     logo: "",
-    image: "./assets/projects/ragdl/ragdl.png",
+    image: "assets/projects/ragdl/ragdl.png",
     tags: [
       {
         id: 1,
         name: "FastApi",
-        path: "./assets/logos/fastAPI.svg",
+        path: "assets/logos/fastAPI.svg",
         style: "size-16"
       },
       {
         id: 2,
         name: "Python",
-        path: "./assets/logos/python-logo.png",
+        path: "assets/logos/python-logo.png",
         style: "w-20 h-12",
       },
       {
         id: 3,
         name: "SqLite",
-        path: "./assets/logos/sqlite.svg",
+        path: "assets/logos/sqlite.svg",
         style: "w-20 h-12",
       },
       {
         id: 4,
         name: "Next.JS",
-        path: "./assets/logos/nextjs.svg",
+        path: "assets/logos/nextjs.svg",
       },
       {
         id: 5,
         name: "TailwindCSS",
-        path: "./assets/logos/tailwindcss.svg",
+        path: "assets/logos/tailwindcss.svg",
       },
       {
         id: 6,
         name: "React Flow",
-        path: "./assets/logos/react-flow.png",
+        path: "assets/logos/react-flow.png",
       },
     ],
   },
@@ -100,43 +100,43 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "./assets/projects/mam_pack/ajout-preforme.png",
+    image: "assets/projects/mam_pack/ajout-preforme.png",
     tags: [
       {
         id: 1,
         name: "MongoDb",
-        path: "./assets/logos/mongodb.svg",
+        path: "assets/logos/mongodb.svg",
       },
       {
         id: 2,
         name: "Express.js",
-        path: "./assets/logos/expressJs.png",
+        path: "assets/logos/expressJs.png",
         style: 'w-20 h-8 translate-y-1',
       },
       {
         id: 3,
         name: "React Js",
-        path: "./assets/logos/react.svg",
+        path: "assets/logos/react.svg",
       },
       {
         id: 4,
         name: "Node Js",
-        path: "./assets/logos/nodejs.svg",
+        path: "assets/logos/nodejs.svg",
       },
       {
         id: 5,
         name: "React SWR",
-        path: "./assets/logos/swr.png",
+        path: "assets/logos/swr.png",
       },
       {
         id: 6,
         name: "Redux Toolkit",
-        path: "./assets/logos/redux.svg",
+        path: "assets/logos/redux.svg",
       },
       {
         id: 7,
         name: "NginX",
-        path: "./assets/logos/nginx.svg",
+        path: "assets/logos/nginx.svg",
       },
     ],
   },
@@ -152,45 +152,45 @@ export const myProjects = [
      ],
     href: "https://github.com/onsyedes/JemsIn_backend/tree/main",
     logo: "",
-    image: "./assets/projects/jemsIn/employee_interactions.png",
+    image: "assets/projects/jemsIn/employee_interactions.png",
     tags: [
       {
         id: 1,
         name: "MongoDb",
-        path: "./assets/logos/mongodb.svg",
+        path: "assets/logos/mongodb.svg",
       },
       {
         id: 2,
         name: "Express.js",
-        path: "./assets/logos/expressJs.png",
+        path: "assets/logos/expressJs.png",
         style: 'w-20 h-8 translate-y-1',
       },
       {
         id: 3,
         name: "React Js",
-        path: "./assets/logos/react.svg",
+        path: "assets/logos/react.svg",
       },
       {
         id: 4,
         name: "Node Js",
-        path: "./assets/logos/nodejs.svg",
+        path: "assets/logos/nodejs.svg",
       },
       
       {
         id: 6,
         name: "Redux Toolkit",
-        path: "./assets/logos/redux.svg",
+        path: "assets/logos/redux.svg",
       },
       
       {
         id: 7,
         name: "Puppeteer",
-        path: "./assets/logos/puppeteer.png",
+        path: "assets/logos/puppeteer.png",
       },
       {
         id: 8,
         name: "RabbitMQ",
-        path: "./assets/logos/rabbitmq.png",
+        path: "assets/logos/rabbitmq.png",
       },
 
     ],
@@ -202,12 +202,12 @@ export const mySocials = [
   {
     name: "WhatsApp",
     href: "https://wa.me/+971503394341",
-    icon: "./assets/socials/whatsApp.svg",
+    icon: "assets/socials/whatsApp.svg",
   },
   {
     name: "Linkedin",
     href: "https://www.linkedin.com/in/ons-yedes-a75888209/",
-    icon: "./assets/socials/linkedIn.svg",
+    icon: "assets/socials/linkedIn.svg",
   },
   
 ];
@@ -218,7 +218,7 @@ export const experiences = [
     site: 'https://navinspire.ai/',
     // job: "Navinspire AI",
     date: "April 2024 – Present",
-    logo: './assets/logos/navinspire.png',
+    logo: 'assets/logos/navinspire.png',
     contents: [
       "Designed an AI assistant to automate workflows across marketing, HR, and finance departments.",
       "Developed authentication services with Supabase and implemented user management systems.",
@@ -232,7 +232,7 @@ export const experiences = [
   {
     title: "Full-stack JavaScript Developer (Freelance)",
     // job: "MaM Pack",
-    logo:'./assets/logos/mam_pack.png',
+    logo:'assets/logos/mam_pack.png',
     site: 'https://mampack.com/',
     date: "Sep. 2023 – Feb. 2024",
     contents: [
@@ -244,7 +244,7 @@ export const experiences = [
   },
   {
     title: "End-of-studies Intern",
-    logo: "./assets/logos/jems.svg",
+    logo: "assets/logos/jems.svg",
     style: 'size-14',
     site: "https://www.linkedin.com/company/jems-group/posts/?feedView=all",
     date: "Feb. 2023 – July 2023",
@@ -257,7 +257,7 @@ export const experiences = [
   },
   {
     title: "Frontend Developer (Freelance)",
-    logo: "./assets/logos/ijeni.svg",
+    logo: "assets/logos/ijeni.svg",
     style: 'size-16',
     site: "https://ijeni.tn/",
     date: "Oct. 2022 – Nov. 2022",
