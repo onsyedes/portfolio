@@ -13,7 +13,7 @@ const About = () => {
         {/* Grid 1 */}
         <div className="flex items-end grid-default-color grid-1">
           <img
-            src="/assets/coding-pov_.jpg"
+            src="./assets/coding-pov_.jpg"
             className="absolute scale-[1.75] -right-[5rem] -top-[1rem] md:scale-[3] md:left-50 md:inset-y-10 lg:scale-[2.5]"
           />
           <div className="z-10">
@@ -61,17 +61,17 @@ const About = () => {
             />
             <Card
               style={{ rotate: "30deg", top: "70%", left: "70%" , borderRadius: "10%" }}
-              image="/assets/logos/javascript-logo.png"
+              image="./assets/logos/javascript-logo.png"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "70%", left: "25%" }}
-              image="/assets/logos/typescript-logo.png"
+              image="./assets/logos/typescript-logo.png"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" , width: "100px"}}
-              image="/assets/logos/python-logo.png"
+              image="./assets/logos/python-logo.png"
               containerRef={grid2Container}
             />
           </div>
