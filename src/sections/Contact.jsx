@@ -46,7 +46,7 @@ const Contact = () => {
       showAlertMessage("success", "You message has been sent!");
     } catch (error) {
       setIsLoading(false);
-      console.log(error);
+      // console.log(error);
       showAlertMessage("danger", "Somthing went wrong!");
     }
   };
